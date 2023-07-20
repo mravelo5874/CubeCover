@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <iostream>
 #include <Eigen/Dense>
+#include <cassert>
 
 namespace CubeCover {
 

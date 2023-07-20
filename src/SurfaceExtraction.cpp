@@ -1,6 +1,7 @@
 #include "SurfaceExtraction.h"
 #include "TetMeshConnectivity.h"
 #include <iostream>
+#include <cassert>
 
 namespace CubeCover {
 

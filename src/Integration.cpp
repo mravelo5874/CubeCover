@@ -7,6 +7,7 @@
 #include <set>
 #include <Eigen/Dense>
 #include <vector>
+#include <cassert>
 
 namespace CubeCover {
 

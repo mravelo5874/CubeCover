@@ -91,9 +91,9 @@ if (BUILD_MINT_UTILS)
   add_subdirectory(tools/proj_to_int_frames)
 endif()
 
-
-
 if(BUILD_BINARIES)
   add_subdirectory(tools/seamless)
   add_subdirectory(tools/integergrid)
 endif()
+
+add_subdirectory(tools/centroidsearch)
